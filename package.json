@@ -5,7 +5,7 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/jskuby/gulp-mobile-tasks.git"
+    "url": "https://github.com/the-mx-group/gulp-mobile-tasks.git"
   },
   "keywords": [
     "gulp",
@@ -17,9 +17,9 @@
   "author": "The Mx Group",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/jskuby/gulp-mobile-tasks/issues"
+    "url": "https://github.com/the-mx-group/gulp-mobile-tasks/issues"
   },
-  "homepage": "https://github.com/jskuby/gulp-mobile-tasks#readme",
+  "homepage": "https://github.com/the-mx-group/gulp-mobile-tasks#readme",
   "dependencies": {
     "cross-spawn": "4.0.0",
     "request": "2.74.0",
