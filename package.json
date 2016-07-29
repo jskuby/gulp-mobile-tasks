@@ -1,7 +1,7 @@
 {
   "name": "gulp-mobile-tasks",
   "version": "0.0.1",
-  "description": "Gulp tasks for building and deploying mobile applications",
+  "description": "Gulp tasks for building mobile applications",
   "main": "index.js",
   "repository": {
     "type": "git",
@@ -15,15 +15,12 @@
     "app"
   ],
   "author": "The Mx Group",
-  "license": "ISC",
   "bugs": {
     "url": "https://github.com/the-mx-group/gulp-mobile-tasks/issues"
   },
   "homepage": "https://github.com/the-mx-group/gulp-mobile-tasks#readme",
   "dependencies": {
     "cross-spawn": "4.0.0",
-    "request": "2.74.0",
-    "request-promise": "4.0.2",
     "rimraf": "2.5.4"
   }
 }
